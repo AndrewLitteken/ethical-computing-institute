@@ -86,7 +86,7 @@ coursepage: true
 + [Why American Internet Should Be a Public Utility](https://psmag.com/news/why-american-internet-should-be-a-public-utility "Why American Internet Should Be a Public Utility")
 + [Do Not Make the Internet a Public Utility](https://www.nytimes.com/roomfordebate/2015/02/04/regulate-internet-providers/dont-make-the-internet-a-public-utility "Do Not Make the Internet a Public Utility")
 
-## Automation
+## Automation <a name="job-automation">
 ### Job Automation
 + [What is McDonaldization?](https://www.mcdonaldization.com/whatisit.shtml "What is McDonaldization?")
 + [A World Without Work](https://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/ "A World Without Work")
@@ -98,7 +98,13 @@ coursepage: true
 + [Self-Driving Uber Car Kills Pedestrian in Arizona, Where Robots Roam](https://www.nytimes.com/2018/03/19/technology/uber-driverless-fatality.html "Self-Driving Uber Car Kills Pedestrian in Arizona")
 + [Full Tilt: When 100% of Cars Are Autonomous](https://www.nytimes.com/interactive/2017/11/08/magazine/tech-design-autonomous-future-cars-100-percent-augmented-reality-policing.html?mtrref=undefined&mtrref=www.nytimes.com "Full Tilt: When 100% of Cars Are Autonomous")
 
-## Weapons Development and Warfare
+### Supplementary Readings on Job Automation
++ [This Fast Food CEO Wants to Replace Workers With Robots](http://fortune.com/2016/03/17/automate-fast-food/ "This Fast Food CEO Wants to Replace Workers With Robots")
++ [New McDonald’s in Phoenix Run Entirely By Robots](https://newsexaminer.net/food/mcdonalds-to-open-restaurant-run-by-robots/ "New McDonald’s in Phoenix Run Entirely By Robots")
++ [Automation Arrives at Restaurants (But Don’t Blame Rising Minimum Wages)](https://www.computerworld.com/article/2837810/automation-arrives-at-restaurants-but-dont-blame-rising-minimum-wages.html "Automation Arrives at Restaurants (But Don’t Blame Rising Minimum Wages)")
++ [Fast Food Chain Automation](https://www.iot-ignite.com/fast-food-automation/ "Fast Food Chain Automation")
+
+## Weapons Development and Warfare <a name="weapons-development">
 + [Ethical Robots in Warfare](https://www.cc.gatech.edu/ai/robot-lab/online-publications/arkin-rev.pdf "Ethical Robots in Warfare")
 + [War Goes Viral](https://www.theatlantic.com/magazine/archive/2016/11/war-goes-viral/501125/ "War Goes Viral")
 + [Codename: Delphi](http://www.lightspeedmagazine.com/fiction/codename-delphi/ "Codename: Delphi")
